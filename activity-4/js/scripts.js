@@ -1,6 +1,6 @@
 //welcome message
 
-var user = 'Jeremy';
+var user = 'Mike';
 var salutation = 'Hello, ';
 var greeting = salutation + user + '! Here are the latest CodePen reviews.';
 var greetingEl = document.getElementById('greeting');
