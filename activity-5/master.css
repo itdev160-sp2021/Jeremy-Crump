@@ -1,0 +1,18 @@
+body {   
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+#inner-body {
+    margin: 0 auto;
+    width: 80%;
+}
+
+#credits {
+    font-style: italic;
+    font-size: .75em;
+    margin-bottom: 20px;
+}
+
+#header-image {
+    width: 100%;
+}
